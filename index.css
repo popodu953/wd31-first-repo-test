@@ -1,14 +1,21 @@
-/* * {
-    border: 1px solid red;
+* {
+    /* border: 1px solid red; */
     margin: auto;
     padding: 0px;
 
-} */
+}
 
 h1 {
-    color: red;
+    color: rgb(213, 213, 213);
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: rgb(170, 119, 52);
+
+}
+
+h2 {
+    color: aliceblue;
+    border-color: aquamarine;
+    border: 1px solid;
 }
